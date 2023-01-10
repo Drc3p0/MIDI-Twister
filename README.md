@@ -4,4 +4,7 @@ The contact points were made using flat Cat6e cable and conductive copper adhesi
 
 Images/video of the build: https://www.instagram.com/p/CiW2CAmOglv/
 
+![teensy controller shown](https://github.com/Drc3p0/MIDI-Twister/blob/main/twister%20controller.jpg)
+![twister board with internal contact points shown](https://github.com/Drc3p0/MIDI-Twister/blob/main/twister%20board%20with%20internals%20shown.jpg)
+![twister board in use](https://github.com/Drc3p0/MIDI-Twister/blob/main/twister%20board%20in%20use.jpg)
 
